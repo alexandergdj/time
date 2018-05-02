@@ -1,0 +1,32 @@
+<--------------------------FMM--------------------------------------------------->
+_____Banners and galeria administrables desde el panel.
+
+<--------------------------END FMM----------------------------------------------->
+
+
+
+
+<--------------------------COBRERIA---------------------------->
+_____Hacer ABMC, de Categorias y Subcategorias.
+_____Se debe contar con una tabla de galeria ó realizarlo en la misma row;No mas de 6 imágenes por producto
+_____Realizar editar de Productos
+_____Validar campos de precio (Menor que 0 = "Cero")
+
+<--------------------------END COBRERIA------------------------>
+
+
+
+
+
+
+
+<--------------------------CAVA--------------------------------------------------------------->
+- Modificar la vista del checkout para que pida la ubicación nuevamente!
+
+
+
+_____modifar show se mustra el precio de venta actual no el que se compra
+_____cuando se crea el paquete añadir precio_unitario y precio_compra
+_____Modificar la creación del pedido manualmente (Agregar precio compra, precio unitario)
+
+<--------------------------END CAVA----------------------------------------------------------->
